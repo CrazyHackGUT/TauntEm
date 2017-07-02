@@ -1,0 +1,264 @@
+"Phrases"
+{
+    // Scout Taunts | Насмешки Разведчика
+    "Scout - Battin' a Thousand"
+    {
+        "en"        "Battin' a Thousand"
+        "ru"        "Один против тысячи"
+    }
+
+    "Scout - Deep Fried Desire"
+    {
+        "en"        "Deep Fried Desire"
+        "ru"        "Хорошо прожаренная страсть"
+    }
+
+    "Scout - The Carlton"
+    {
+        "en"        "The Carlton"
+        "ru"        "Танец Карлтона"
+    }
+
+    "Scout - The Boston Breakdance"
+    {
+        "en"        "The Boston Breakdance"
+        "ru"        "Бостонский Брейк"
+    }
+
+    // Soldier Taunts | Насмешки Солдата
+    "Soldier - Fresh Brewed Victory"
+    {
+        "en"        "Fresh Breved Victory"
+        "ru"        "Свежесваренная победа"
+    }
+
+    "Soldier - Soldier's Requiem"
+    {
+        "en"        "Soldier's Requiem"
+        "ru"        "Солдатская скорбь"
+    }
+
+    "Soldier - The Fubar Fanfare"
+    {
+        "en"        "The Fubar Fanfare"
+        "ru"        "Фиаско-фанфара"
+    }
+
+    // Pyro Taunts | Насмешки Поджигателя
+    "Pyro - Party Trick"
+    {
+        "en"        "Party Trick"
+        "ru"        "Фокус для вечеринки"
+    }
+
+    "Pyro - Pool Party"
+    {
+        "en"        "Pool Party"
+        "ru"        "Вечеринка в Бассейне"
+    }
+
+    "Pyro - The Balloonibouncer"
+    {
+        "en"        "The Balloonibouncer"
+        "ru"        "Надувнокачалка"
+    }
+
+    // Demoman Taunts | Насмешки Подрывника
+    "Demoman - Spent Well Spirits"
+    {
+        "en"        "Spent Well Spirits"
+        "ru"        "Правильная разрядка"
+    }
+
+    "Demoman - Oblooterated"
+    {
+        "en"        "Oblooterated"
+        "ru"        "Трата сокровищ"
+    }
+
+    "Demoman - True Scotsman's Call"
+    {
+        "en"        "Bad Pipes"
+        "ru"        "Плохолынка"
+    }
+
+    "Demoman - Scotsmann's Stagger"
+    {
+        "en"        "Scotsmann's Stagger"
+        "ru"        "Шотландское шатание"
+    }
+
+    // Heavy Taunts | Насмешки Пулемётчика
+    "Heavy - The Proletariat Posedown"
+    {
+        "en"        "The Proletariat Posedown"
+        "ru"        "Мощь Пролетариата"
+    }
+
+    "Heavy - The Table Tantrum"
+    {
+        "en"        "The Table Tantrum"
+        "ru"        "Столовое сальто"
+    }
+
+    "Heavy - The Boiling Point"
+    {
+        "en"        "The Boiling Point"
+        "ru"        "Точка кипения"
+    }
+
+    // Engineer Taunts | Насмешки Инженера
+    "Engineer - Rancho Relaxo"
+    {
+        "en"        "Rancho Relaxo"
+        "ru"        "Ранчо Релаксо"
+    }
+
+    "Engineer - Bucking Bronco"
+    {
+        "en"        "Bucking Bronco"
+        "ru"        "Необузданный бычок"
+    }
+
+    // Medic Taunts | Насмешки Медика
+    "Medic - Meet the Medic"
+    {
+        "en"        "Meet the Medic"
+        "ru"        "Знакомьтесь, Медик"
+    }
+
+    "Medic - Results are in"
+    {
+        "en"        "Results are in"
+        "ru"        "Диагноз налицо"
+    }
+
+    // Sniper Taunts | Насмешки Снайпера
+    "Sniper - I see you"
+    {
+        "en"        "I see you"
+        "ru"        "Я вижу тебя"
+    }
+
+    "Sniper - The Killer Solo"
+    {
+        "en"        "The Killer Solo"
+        "ru"        "Убийственное соло"
+    }
+
+    "Sniper - Most Wanted"
+    {
+        "en"        "Most Wanted"
+        "ru"        "Особо опасен"
+    }
+
+    "Sniper - Didgerdrongo"
+    {
+        "en"        "Didgerdrongo"
+        "ru"        "Диджеридурень"
+    }
+
+    // Spy Taunts | Насмешки Шпиона
+    "Spy - Buy a Life"
+    {
+        "en"        "Buy a Life"
+        "ru"        "Займись делом"
+    }
+
+    "Spy - The Box Trot"
+    {
+        "en"        "The Box Trot"
+        "ru"        "Короботрот"
+    }
+
+    // Multiclass Taunts | Мультиклассовые насмешки
+    "Multiclass - The High Five"
+    {
+        "en"        "The High Five!"
+        "ru"        "Дай пять!"
+    }
+
+    "Multiclass - The Director's Vision"
+    {
+        "en"        "The Director's Vision"
+        "ru"        "Взгляд режиссёра"
+    }
+
+    "Multiclass - The Schadenfreude"
+    {
+        "en"        "Schadenfreude"
+        "ru"        "Злорадство"
+    }
+
+    "Multiclass - Shred Alert"
+    {
+        "en"        "Shred Alert"
+        "ru"        "Боевой запил"
+    }
+
+    "Multiclass - Square Dance"
+    {
+        "en"        "Square Dance"
+        "ru"        "Кадриль"
+    }
+
+    "Multiclass - Flippin' Awesome"
+    {
+        "en"        "Flippin' Awesome"
+        "ru"        "Крутой кувырок"
+    }
+
+    "Multiclass - Rock, Paper, Scissors"
+    {
+        "en"        "Rock, Paper, Scissors"
+        "ru"        "Камень, Ножницы, Бумага"
+    }
+
+    "Multiclass - Skullcracker"
+    {
+        "en"        "Skullcracker"
+        "ru"        "Головоломка"
+    }
+
+    "Multiclass - Conga"
+    {
+        "en"        "Conga"
+        "ru"        "Конга"
+    }
+
+    "Multiclass - Kazotsky Kick"
+    {
+        "en"        "Kazotsky Kick"
+        "ru"        "Вприсядку"
+    }
+
+    "Multiclass - Burstchester"
+    {
+        "en"        "Burstchester"
+        "ru"        "Грудолом"
+    }
+
+    "Multiclass - Zoomin' Broom"
+    {
+        "en"        "Zoomin' Broom"
+        "ru"        "Улётные мётлы"
+    }
+
+    "Multiclass - Second Rate Sorcery"
+    {
+        "en"        "Second Rate Sorcery"
+        "ru"        "Второсортный волшебник"
+    }
+
+    "Multiclass - Mannrobics"
+    {
+        "en"        "Mannrobics"
+        "ru"        "Маннробика"
+    }
+
+    "Multiclass - The Victory Lap"
+    {
+        "en"        "The Victory Lap"
+        "ru"        "Круг почёта"
+    }
+}

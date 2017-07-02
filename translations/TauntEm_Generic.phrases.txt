@@ -1,0 +1,33 @@
+"Phrases"
+{
+    "NoTaunts"
+    {
+        "ru"        "Нет доступных насмешек."
+        "en"        "Not found available taunts."
+    }
+
+    "BeAlive"
+    {
+        "ru"        "Необходимо быть живым!"
+        "en"        "You need be alive!"
+    }
+
+    "Access Denied"
+    {
+        "ru"        "Нет доступа"
+        "en"        "No Access"
+    }
+
+    "MenuTitle"
+    {
+        "ru"        "Насмешки"
+        "en"        "Taunts"
+    }
+
+    "VIPItem"
+    {
+        "#format"   "{1:d},{2:d}"
+        "ru"        "Насмешки: Доступно {1} из {2}"
+        "en"        "Taunts: Available {1} of {2}"
+    }
+}
