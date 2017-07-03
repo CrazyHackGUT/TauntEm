@@ -171,6 +171,12 @@
         "ru"        "Короботрот"
     }
 
+    "Spy - Disco Fever"
+    {
+        "en"        "Disco Fever"
+        "ru"        "Диско-Лихорадка"
+    }
+
     // Multiclass Taunts | Мультиклассовые насмешки
     "Multiclass - The High Five"
     {
