@@ -28,7 +28,7 @@ public APLRes AskPluginLoad2(Handle hMyPlugin, bool bLate, char[] szError, int i
         return APLRes_Failure;
     }
 
-    __pl_vip_SetNTVOptional();
+    __pl_vip_core_SetNTVOptional();
     return APLRes_Success;
 }
 

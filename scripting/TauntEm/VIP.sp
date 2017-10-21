@@ -1,4 +1,5 @@
 #undef REQUIRE_PLUGIN
+#pragma newdecls optional
 #include <vip_core>
 
 bool g_bVIPLoaded;
@@ -131,3 +132,5 @@ public int VIP_OnNeedDrawItem(int iClient, const char[] szFeature, int iStyle) {
     bool bThisClass = UTIL_IsExistsAvailableTaunts(iClient);
     return (iTaunts > 0 && bThisClass) ? ITEMDRAW_DEFAULT : ITEMDRAW_DISABLED;
 }
+
+#pragma newdecls required
