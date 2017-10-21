@@ -63,6 +63,11 @@
         "ru"        "Надувнокачалка"
     }
 
+    "Pyro - Headcase"
+    {
+        "en"        "The Headcase"
+    }
+
     // Demoman Taunts | Насмешки Подрывника
     "Demoman - Spent Well Spirits"
     {
@@ -107,6 +112,16 @@
         "ru"        "Точка кипения"
     }
 
+    "Heavy - Russian Arms Race"
+    {
+        "en"        "The Russian Arms Race"
+    }
+
+    "Heavy - Soviet Strongarm"
+    {
+        "en"        "The Soviet Strongarm"
+    }
+
     // Engineer Taunts | Насмешки Инженера
     "Engineer - Rancho Relaxo"
     {
@@ -118,6 +133,16 @@
     {
         "en"        "Bucking Bronco"
         "ru"        "Необузданный бычок"
+    }
+
+    "Engineer - Dueling Banjo"
+    {
+        "en"        "The Dueling Banjo"
+    }
+
+    "Engineer - Jumping Jack"
+    {
+        "en"        "The Jumping Jack"
     }
 
     // Medic Taunts | Насмешки Медика
@@ -266,5 +291,15 @@
     {
         "en"        "The Victory Lap"
         "ru"        "Круг почёта"
+    }
+
+    "Multiclass - Yeti Punch"
+    {
+        "en"        "Yeti Punch"
+    }
+
+    "Multiclass - Yeti Smash"
+    {
+        "en"        "Yeti Smash"
     }
 }
