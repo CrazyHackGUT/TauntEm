@@ -66,6 +66,7 @@
     "Pyro - Headcase"
     {
         "en"        "The Headcase"
+        "ru"        "Главное блюдо"
     }
 
     // Demoman Taunts | Насмешки Подрывника
@@ -115,11 +116,14 @@
     "Heavy - Russian Arms Race"
     {
         "en"        "The Russian Arms Race"
+        "ru"        "Гонка в тяжелом весе"
+        
     }
 
     "Heavy - Soviet Strongarm"
     {
         "en"        "The Soviet Strongarm"
+        "ru"        "Сила советов"
     }
 
     // Engineer Taunts | Насмешки Инженера
@@ -138,11 +142,13 @@
     "Engineer - Dueling Banjo"
     {
         "en"        "The Dueling Banjo"
+        "ru"        "Дуэльное банджо"
     }
 
     "Engineer - Jumping Jack"
     {
         "en"        "The Jumping Jack"
+        "ru"        "Отбойные скачки"
     }
 
     // Medic Taunts | Насмешки Медика
@@ -296,10 +302,12 @@
     "Multiclass - Yeti Punch"
     {
         "en"        "Yeti Punch"
+        "ru"        "Удар по Йети"
     }
 
     "Multiclass - Yeti Smash"
     {
         "en"        "Yeti Smash"
+        "ru"        "Йети крушить"
     }
 }
