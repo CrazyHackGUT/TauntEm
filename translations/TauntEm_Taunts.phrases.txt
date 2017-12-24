@@ -25,6 +25,21 @@
         "ru"        "Бостонский Брейк"
     }
 
+    "Scout - The Trackman's Touchdown"
+    {
+        "en"        "The Trackman's Touchdown"
+    }
+
+    "Scout - The Bunnyhopper"
+    {
+        "en"        "The Bunnyhopper"
+    }
+
+    "Scout - Runner's Rhythm"
+    {
+        "en"        "Runner's Rhythm"
+    }
+
     // Soldier Taunts | Насмешки Солдата
     "Soldier - Fresh Brewed Victory"
     {
@@ -67,6 +82,11 @@
     {
         "en"        "The Headcase"
         "ru"        "Главное блюдо"
+    }
+
+    "Pyro - The Skating Scorcher"
+    {
+        "en"        "The Skating Scorcher"
     }
 
     // Demoman Taunts | Насмешки Подрывника
@@ -164,6 +184,11 @@
         "ru"        "Диагноз налицо"
     }
 
+    "Medic - Surgeon's Squeezebox"
+    {
+        "en"        "Surgeon's Squeezebox"
+    }
+
     // Sniper Taunts | Насмешки Снайпера
     "Sniper - I see you"
     {
@@ -206,6 +231,11 @@
     {
         "en"        "Disco Fever"
         "ru"        "Диско-Лихорадка"
+    }
+
+    "Spy - Luxury Lounge"
+    {
+        "en"        "Luxury Lounge"
     }
 
     // Multiclass Taunts | Мультиклассовые насмешки
