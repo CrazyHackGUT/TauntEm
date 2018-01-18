@@ -28,16 +28,19 @@
     "Scout - The Trackman's Touchdown"
     {
         "en"        "The Trackman's Touchdown"
+        "ru"        "Бросок бегуна"
     }
 
     "Scout - The Bunnyhopper"
     {
         "en"        "The Bunnyhopper"
+        "ru"        "Попрыгунчик"
     }
 
     "Scout - Runner's Rhythm"
     {
         "en"        "Runner's Rhythm"
+        "ru"        "Ритм рысака"
     }
 
     // Soldier Taunts | Насмешки Солдата
@@ -87,6 +90,7 @@
     "Pyro - The Skating Scorcher"
     {
         "en"        "The Skating Scorcher"
+        "ru"        "Жара на льду"
     }
 
     // Demoman Taunts | Насмешки Подрывника
@@ -187,6 +191,7 @@
     "Medic - Surgeon's Squeezebox"
     {
         "en"        "Surgeon's Squeezebox"
+        "ru"        "Хирургический аккордеон"
     }
 
     // Sniper Taunts | Насмешки Снайпера
@@ -236,6 +241,7 @@
     "Spy - Luxury Lounge"
     {
         "en"        "Luxury Lounge"
+        "ru"        "Праздный шик"
     }
 
     // Multiclass Taunts | Мультиклассовые насмешки
