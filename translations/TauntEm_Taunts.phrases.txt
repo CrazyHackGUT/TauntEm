@@ -43,6 +43,11 @@
         "ru"        "Ритм рысака"
     }
 
+    "Scout - The Scooty Scout"
+    {
+        "en"        "The Scooty Scout"
+    }
+
     // Soldier Taunts | Насмешки Солдата
     "Soldier - Fresh Brewed Victory"
     {
@@ -60,6 +65,11 @@
     {
         "en"        "The Fubar Fanfare"
         "ru"        "Фиаско-фанфара"
+    }
+
+    "Soldier - Panzer Pants"
+    {
+        "en"        "Panzer Pants"
     }
 
     // Pyro Taunts | Насмешки Поджигателя
