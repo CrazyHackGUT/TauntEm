@@ -48,6 +48,16 @@
         "en"        "The Scooty Scout"
     }
 
+    "Scout - The Boston Boarder"
+    {
+        "en"        "The Boston Boarder"
+    }
+
+    "Scout - Spin-to-Win"
+    {
+        "en"        "Spin-to-Win"
+    }
+
     // Soldier Taunts | Насмешки Солдата
     "Soldier - Fresh Brewed Victory"
     {
@@ -70,6 +80,11 @@
     "Soldier - Panzer Pants"
     {
         "en"        "Panzer Pants"
+    }
+
+    "Soldier - Rocket Jockey"
+    {
+        "en"        "Rocket Jockey"
     }
 
     // Pyro Taunts | Насмешки Поджигателя
@@ -103,6 +118,11 @@
         "ru"        "Жара на льду"
     }
 
+    "Pyro - Scorcher's Solo"
+    {
+        "en"        "Scorcher's Solo"
+    }
+
     // Demoman Taunts | Насмешки Подрывника
     "Demoman - Spent Well Spirits"
     {
@@ -126,6 +146,11 @@
     {
         "en"        "Scotsmann's Stagger"
         "ru"        "Шотландское шатание"
+    }
+
+    "Demoman -  The Pooped Deck"
+    {
+        "en"        "The Pooped Deck"
     }
 
     // Heavy Taunts | Насмешки Пулемётчика
@@ -185,6 +210,11 @@
         "ru"        "Отбойные скачки"
     }
 
+    "Engineer - Texas Truckin"
+    {
+        "en"        "Texas Truckin"
+    }
+
     // Medic Taunts | Насмешки Медика
     "Medic - Meet the Medic"
     {
@@ -202,6 +232,11 @@
     {
         "en"        "Surgeon's Squeezebox"
         "ru"        "Хирургический аккордеон"
+    }
+
+    "Medic - Time Out Therapy"
+    {
+        "en"        "Time Out Therapy"
     }
 
     // Sniper Taunts | Насмешки Снайпера
@@ -355,5 +390,10 @@
     {
         "en"        "Yeti Smash"
         "ru"        "Йети крушить"
+    }
+
+    "Multiclass - The Fist Bump"
+    {
+        "en"        "The Fist Bump"
     }
 }
