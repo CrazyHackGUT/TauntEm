@@ -46,17 +46,25 @@
     "Scout - The Scooty Scout"
     {
         "en"        "The Scooty Scout"
+		"ru"		"Скудный Скутер"
     }
 
     "Scout - The Boston Boarder"
     {
         "en"        "The Boston Boarder"
+		"ru"		"Бостонский скейтбордист"
     }
 
     "Scout - Spin-to-Win"
     {
         "en"        "Spin-to-Win"
+		"ru"		"Кручу-верчу"
     }
+	"Scout - The Homerunner's Hobby"
+	{
+		"en"        "The Homerunner's Hobby"
+		"ru"		"Хобби наездника"
+	}
 
     // Soldier Taunts | Насмешки Солдата
     "Soldier - Fresh Brewed Victory"
@@ -80,11 +88,18 @@
     "Soldier - Panzer Pants"
     {
         "en"        "Panzer Pants"
+		"ru"		"Танковые штаны"
     }
 
     "Soldier - Rocket Jockey"
     {
         "en"        "Rocket Jockey"
+		"ru"		"Ракетные скачки"
+    }
+	"Soldier - The Profane Puppeteer"
+    {
+        "en"        "The Profane Puppeteer"
+		"ru"		"Проклятый кукловод"
     }
 
     // Pyro Taunts | Насмешки Поджигателя
@@ -121,6 +136,7 @@
     "Pyro - Scorcher's Solo"
     {
         "en"        "Scorcher's Solo"
+		"ru"		"Пламенное соло"
     }
 
     // Demoman Taunts | Насмешки Подрывника
@@ -148,9 +164,15 @@
         "ru"        "Шотландское шатание"
     }
 
-    "Demoman -  The Pooped Deck"
+    "Demoman - The Pooped Deck"
     {
         "en"        "The Pooped Deck"
+		"ru"		"Уютный ют"
+    }
+	"Demoman - The Drunken Sailor"
+    {
+        "en"        "The Drunken Sailor"
+		"ru"		"Пьяный морячок"
     }
 
     // Heavy Taunts | Насмешки Пулемётчика
@@ -184,6 +206,12 @@
         "en"        "The Soviet Strongarm"
         "ru"        "Сила советов"
     }
+	
+	"Heavy - Bare Knuckle Beatdown"
+    {
+        "en"        "Bare Knuckle Beatdown"
+        "ru"        "Удар голыми руками"
+    }
 
     // Engineer Taunts | Насмешки Инженера
     "Engineer - Rancho Relaxo"
@@ -213,6 +241,7 @@
     "Engineer - Texas Truckin"
     {
         "en"        "Texas Truckin"
+		"ru"		"Техасский тракторист"
     }
 
     // Medic Taunts | Насмешки Медика
@@ -237,6 +266,12 @@
     "Medic - Time Out Therapy"
     {
         "en"        "Time Out Therapy"
+		"ru"		"Целебный перерыв"
+    }
+	"Medic - The Mannbulance!"
+    {
+        "en"        "The Mannbulance!"
+		"ru"		"Скороая помощь"
     }
 
     // Sniper Taunts | Насмешки Снайпера
@@ -395,5 +430,6 @@
     "Multiclass - The Fist Bump"
     {
         "en"        "The Fist Bump"
+		"ru"		"Кулачок"
     }
 }
